@@ -66,7 +66,7 @@ http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/ind
 #EXTINF:-1 tvg-id="30" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/12/large/20220512170353618582_35.jpg" group-title="",北京卫视 高清
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/13/large/20220513153429293562_57.jpg" group-title="",北京冬奥 高清
-http://111.12.101.22:6610/PLTV/77777777/224/3221225995/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=no
 #EXTINF:-1 tvg-id="31" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/36f8f53257b2666fae32c86c9729c7ff.jpg" group-title="",东方卫视 高清
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/01/14/large/20160114200437122176_23.png" group-title="",安徽卫视 高清
