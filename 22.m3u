@@ -148,16 +148,6 @@ https://cdn.hklive.tv/hls/82/index.m3u8
 https://cdn.hklive.tv/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/02/26/large/20220226171109206473_85.png" group-title="",viu6 高清
 https://cdn.hklive.tv/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="6242" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/08/large/20220508233405299164_74.jpg" group-title="",求索动物 高清
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
-#EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2020/03/22/large/20200322211711184602_31.png" group-title="",求索纪录 高清
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
-#EXTINF:-1 tvg-id="6240" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/07/large/20220507212849432518_53.jpg" group-title="",求索科学 高清
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/07/large/20220507212650263187_16.jpg" group-title="",求索生活 高清
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",4K测试 高清 
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",4K 高清 
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",测试 高清 
