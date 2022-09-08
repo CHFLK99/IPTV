@@ -42,10 +42,6 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/21/large/20220521033734846026_95.jpg" group-title="",CCTV台球 高清
 http://61.164.158.23:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226083/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/20/large/20220520002125587039_56.jpg" group-title="",CGTN Español 高清
-http://39.136.48.18:8089/PLTV/88888888/224/3221226324/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/20/large/20220520002319040251_53.jpg" group-title="",CGTN Français 高清
-http://39.136.48.18:8089/PLTV/88888888/224/3221226399/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/img/logo/2013/10/30/80e4abd132e17b534c2528f1abbb5936.jpg" group-title="",湖南卫视 高清
 http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/22/large/20160422232231054669_17.jpg" group-title="",金鹰纪实 高清
@@ -71,7 +67,7 @@ http://111.20.33.70/PLTV/88888893/224/3221226216/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/19/large/20220519234033727761_87.jpg" group-title="",深圳卫视高清
 http://111.20.33.70/PLTV/88888893/224/3221226205/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/31/large/20220531155536893321_81.jpg" group-title="",辽宁卫视 高清
-http://111.20.33.70/PLTV/88888893/224/3221226201/index.m3u8
+http://111.20.33.70/PLTV/88888893/224/3221226210/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/01/14/large/20160114205500391493_61.jpg" group-title="",山东卫视 高清
 http://111.20.33.70/PLTV/88888893/224/3221226209/index.m3u8
 #EXTINF:-1 tvg-id="42" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/31/large/20220531224357857126_28.jpg" group-title="",甘肃卫视 高清
@@ -121,7 +117,7 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2020/03/28/large/20200328131601312895_59.PNG" group-title="",魅力足球 高清
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2020/03/22/large/20200322212610371208_90.png" group-title="",CETV1 高清
-http://39.136.48.57:8089/PLTV/88888888/224/3221226252/index.m3u8
+https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=135
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media//tmp/123.png" group-title="",荆州垄上高清
 http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1672502399-0-0-a9eb4b69fedb8e6d352f38af4867984f
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media//tmp/123.png" group-title="",荆州新闻 高清
