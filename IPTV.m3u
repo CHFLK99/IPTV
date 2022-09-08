@@ -132,4 +132,7 @@ http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?
 #EXTINF:-1 tvg-id="142" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="",凤凰资讯 高清
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
-
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",4K 高清 
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",测试 高清 
+http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
