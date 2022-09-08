@@ -132,17 +132,4 @@ http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?
 #EXTINF:-1 tvg-id="142" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="",凤凰资讯 高清
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
-#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/21/large/20160421161854742473_54.jpg" group-title="",翡翠台 高清
-https://cdn.hklive.tv/hls/81/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/31/large/20220531142453519514_22.jpg" group-title="",明珠台 高清
-https://cdn.hklive.tv/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="416" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/21/large/20160421215111310469_20.png" group-title="",J2 高清
-https://cdn.hklive.tv/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="408" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/02/26/large/20220226171109206473_85.png" group-title="",viuTV 高清
-https://cdn.hklive.tv/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/02/26/large/20220226171109206473_85.png" group-title="",viu6 高清
-https://cdn.hklive.tv/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",4K 高清 
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",测试 高清 
-http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
+
