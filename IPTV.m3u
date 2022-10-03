@@ -148,44 +148,6 @@ http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 http://feidao1983.f3322.net:4022/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="142" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="",凤凰资讯 高清
 http://feidao1983.f3322.net:4022/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/21/large/20160421161854742473_54.jpg" group-title="",翡翠台 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=1
-#EXTINF:-1 tvg-id="130" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/08/07/large/20220807134835358971_10.jpg" group-title="",无线新闻 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=20
-#EXTINF:-1 tvg-id="133" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="",无线财经 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=19
-#EXTINF:-1 tvg-id="127" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/31/large/20220531142453519514_22.jpg" group-title="",明珠台 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=7
-#EXTINF:-1 tvg-id="416" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/21/large/20160421215111310469_20.png" group-title="",J2 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=6
-#EXTINF:-1 tvg-id="408" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/02/26/large/20220226171109206473_85.png" group-title="",viuTV 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/02/26/large/20220226171109206473_85.png" group-title="",viu6 高清
-https://cdn.hklive.tv/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.img.xz95.top/img/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/400px-Now_Live_News_logo.svg.png" group-title="",NOW财经 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/04/17/large/20220417233413534041_33.jpg" group-title="",NOW SPORTS PRIME 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=9
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.img.xz95.top/img/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/240px-Now_News_logo.svg.png" group-title="",NOW新闻 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=10
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/08/06/large/20220806100904503832_81.jpg" group-title="",NOW直播 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=11
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.img.xz95.top/img/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/360px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="",RTHK31 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=13
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/02/26/large/20220226172153753118_16.jpg" group-title="",RTHK32 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=14
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2019/01/22/large/20190122215810003784_14.png" group-title="",香港开电视 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=23
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/img/logo/1_15.jpg" group-title="",有线18 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=25
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2020/06/25/large/20200625232336807856_57.png" group-title="",有线财经资讯台 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=26
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png" group-title="",有线603 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=27
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.img.xz95.top/img/wikipedia/zh/thumb/0/05/I-CABLE_Sports_Channel.png/220px-I-CABLE_Sports_Channel.png" group-title="",有线体育 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=28
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2020/07/14/large/20200714005324551300_94.png" group-title="",有线新闻台 高清
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=29
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 高清 
 http://60.168.53.192:8888/udp/238.1.78.23:6112
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",测试 高清 
