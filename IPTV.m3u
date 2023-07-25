@@ -136,6 +136,8 @@ http://zhaomeng.ddns.net:4000/udp/239.93.0.20:1235
 http://zhaomeng.ddns.net:4000/udp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="" group-title="",青海卫视 高清
 http://qhjx.top:18000/udp/238.255.2.51:5999
+#EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="" group-title="",内蒙古卫视 高清
+http://home.zuopeng.club:8888/udp/239.125.1.59:5000
 #EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="" group-title="",CETV1 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="141" tvg-country="" tvg-language="" tvg-logo="" group-title="",凤凰卫视 高清
