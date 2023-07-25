@@ -148,6 +148,8 @@ http://zhaomeng.ddns.net:4000/udp/239.93.0.97:5140
 http://qhjx.top:18000/udp/238.255.2.195:5999
 #EXTINF:-1 tvg-id="1983" tvg-country="" tvg-language="" tvg-logo="" group-title="",游戏风云 高清
 http://qhjx.top:18000/udp/238.255.2.197:5999
+#EXTINF:-1 tvg-id="1983" tvg-country="" tvg-language="" tvg-logo="" group-title="",五星体育 高清
+http://114.95.242.168:8888/udp/239.45.3.106:5140
 #EXTINF:-1 tvg-id="7242" tvg-country="" tvg-language="" tvg-logo="" group-title="",魅力足球 高清
 http://60.208.16.27:1505/gudou.php?id=364&id=meiliyinyueHD_7000
 #EXTINF:-1 tvg-id="1987" tvg-country="" tvg-language="" tvg-logo="" group-title="",劲爆体育 高清
