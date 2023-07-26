@@ -66,17 +66,17 @@ http://qhjx.top:18000/udp/238.255.2.224:5999
 http://qhjx.top:18000/udp/238.255.2.213:5999
 #EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV4美洲 高清
 http://qhjx.top:18000/udp/238.255.2.214:5999
-#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN-NEWS 高清
+#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN NEWS 高清
 http://qhjx.top:18000/udp/238.255.2.207:5999
-#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN-FRANCAIS 高清
+#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN FRANCAIS 高清
 http://qhjx.top:18000/udp/238.255.2.208:5999
-#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN-ESPANOL 高清
+#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN ESPANOL 高清
 http://qhjx.top:18000/udp/238.255.2.209:5999
-#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN-Russian 高清
+#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN Russian 高清
 http://qhjx.top:18000/udp/238.255.2.210:5999
-#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN-Arabic 高清
+#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN Arabic 高清
 http://qhjx.top:18000/udp/238.255.2.211:5999
-#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN-Documentary 高清
+#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN Documentary 高清
 http://qhjx.top:18000/udp/238.255.2.212:5999
 #EXTINF:-1 tvg-id="27" tvg-country="" tvg-language="" tvg-logo="" group-title="",湖南卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.88:5140
@@ -110,6 +110,10 @@ http://zhaomeng.ddns.net:4000/udp/239.93.0.168:5140
 http://zhaomeng.ddns.net:4000/udp/239.93.0.81:5140
 #EXTINF:-1 tvg-id="39" tvg-country="" tvg-language="" tvg-logo="" group-title="",天津卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.167:5140
+#EXTINF:-1 tvg-id="47" tvg-country="" tvg-language="" tvg-logo="" group-title="",河南卫视 高清
+http://zhaomeng.ddns.net:4000/udp/239.93.42.45:5140
+#EXTINF:-1 tvg-id="48" tvg-country="" tvg-language="" tvg-logo="" group-title="",湖北卫视 高清
+http://zhaomeng.ddns.net:4000/udp/239.93.0.250:5140
 #EXTINF:-1 tvg-id="40" tvg-country="" tvg-language="" tvg-logo="" group-title="",重庆卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.107:5140
 #EXTINF:-1 tvg-id="41" tvg-country="" tvg-language="" tvg-logo="" group-title="",东南卫视 高清
@@ -120,22 +124,18 @@ http://zhaomeng.ddns.net:4000/udp/239.93.42.46:5140
 http://zhaomeng.ddns.net:4000/udp/239.93.0.131:5140
 #EXTINF:-1 tvg-id="45" tvg-country="" tvg-language="" tvg-logo="" group-title="",河北卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.132:5140
+#EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="" group-title="",四川卫视 高清
+http://zhaomeng.ddns.net:4000/udp/239.93.0.20:1235
+#EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="" group-title="",峨眉电影 高清
+http://zhaomeng.ddns.net:4000/udp/239.93.0.252:5140
+#EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="" group-title="",青海卫视 高清
+http://qhjx.top:18000/udp/238.255.2.51:5999
 #EXTINF:-1 tvg-id="46" tvg-country="" tvg-language="" tvg-logo="" group-title="",黑龙江卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.183:5140
-#EXTINF:-1 tvg-id="47" tvg-country="" tvg-language="" tvg-logo="" group-title="",河南卫视 高清
-http://zhaomeng.ddns.net:4000/udp/239.93.42.45:5140
-#EXTINF:-1 tvg-id="48" tvg-country="" tvg-language="" tvg-logo="" group-title="",湖北卫视 高清
-http://zhaomeng.ddns.net:4000/udp/239.93.0.250:5140
 #EXTINF:-1 tvg-id="50" tvg-country="" tvg-language="" tvg-logo="" group-title="",江西卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.134:5140
 #EXTINF:-1 tvg-id="51" tvg-country="" tvg-language="" tvg-logo="" group-title="",吉林卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.248:5140
-#EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="" group-title="",四川卫视 高清
-http://zhaomeng.ddns.net:4000/udp/239.93.0.20:1235
-#EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="" group-title="",峨眉电影 高清
-http://zhaomeng.ddns.net:4000/udp/239.93.1.54:5140
-#EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="" group-title="",青海卫视 高清
-http://qhjx.top:18000/udp/238.255.2.51:5999
 #EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="" group-title="",内蒙古卫视 高清
 http://home.zuopeng.club:8888/udp/239.125.1.59:5000
 #EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="" group-title="",CETV1 高清
@@ -144,10 +144,12 @@ http://zhaomeng.ddns.net:4000/udp/239.93.1.111:5140
 http://zhaomeng.ddns.net:4000/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="142" tvg-country="" tvg-language="" tvg-logo="" group-title="",凤凰资讯 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 高清
+#EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 超高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.97:5140
-#EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 高清
+#EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 超高清
 http://zhaomeng.ddns.net:4000/udp/239.93.42.33:5140
+#EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K 超高清
+http://zhaomeng.ddns.net:4000/udp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="1963" tvg-country="" tvg-language="" tvg-logo="" group-title="",新视觉 高清
 http://qhjx.top:18000/udp/238.255.2.195:5999
 #EXTINF:-1 tvg-id="1983" tvg-country="" tvg-language="" tvg-logo="" group-title="",游戏风云 高清
