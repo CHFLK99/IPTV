@@ -146,6 +146,8 @@ http://zhaomeng.ddns.net:4000/udp/239.93.0.162:2192
 http://zhaomeng.ddns.net:4000/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.97:5140
+#EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 高清
+http://zhaomeng.ddns.net:4000/udp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="1963" tvg-country="" tvg-language="" tvg-logo="" group-title="",新视觉 高清
 http://qhjx.top:18000/udp/238.255.2.195:5999
 #EXTINF:-1 tvg-id="1983" tvg-country="" tvg-language="" tvg-logo="" group-title="",游戏风云 高清
