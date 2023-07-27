@@ -10,63 +10,63 @@ http://zhaomeng.ddns.net:4000/udp/239.93.1.11:2223
 http://zhaomeng.ddns.net:4000/udp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="5" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="",CCTV5 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.12:2224
-#EXTINF:-1 tvg-id="7" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="",CCTV6 高清
+#EXTINF:-1 tvg-id="7" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="",CCTV6 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.13:2226
-#EXTINF:-1 tvg-id="8" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="",CCTV7 高清
+#EXTINF:-1 tvg-id="8" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="",CCTV7 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.67:5140
-#EXTINF:-1 tvg-id="9" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="",CCTV8 高清
+#EXTINF:-1 tvg-id="9" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="",CCTV8 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.42.39:5140
-#EXTINF:-1 tvg-id="10" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="",CCTV9 高清
+#EXTINF:-1 tvg-id="10" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="",CCTV9 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.24:5140
-#EXTINF:-1 tvg-id="11" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="",CCTV10 高清
+#EXTINF:-1 tvg-id="11" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="",CCTV10 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.28:5140
-#EXTINF:-1 tvg-id="12" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="",CCTV11 高清
+#EXTINF:-1 tvg-id="12" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="",CCTV11 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.102:5140
-#EXTINF:-1 tvg-id="13" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="",CCTV12 高清
+#EXTINF:-1 tvg-id="13" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="",CCTV12 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.30:8124
-#EXTINF:-1 tvg-id="14" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="",CCTV13 高清
+#EXTINF:-1 tvg-id="14" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="",CCTV13 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.66:5140
-#EXTINF:-1 tvg-id="15" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="",CCTV14 高清
+#EXTINF:-1 tvg-id="15" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="",CCTV14 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.29:6000
-#EXTINF:-1 tvg-id="16" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV15 高清
+#EXTINF:-1 tvg-id="16" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="",CCTV15 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.103:5140
-#EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="",CCTV16 高清
+#EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.42.53:5140
-#EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="",CCTV16 4K
+#EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16 4K
 http://zhaomeng.ddns.net:4000/udp/239.93.42.54:5140
-#EXTINF:-1 tvg-id="17" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="",CCTV17 高清
+#EXTINF:-1 tvg-id="17" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="",CCTV17 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.92:5140
-#EXTINF:-1 tvg-id="6" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="",CCTV5+ 高清
+#EXTINF:-1 tvg-id="6" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="",CCTV5+ 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="106" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="",CCTV4K 超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="6569" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV央视文化精品 高清
+#EXTINF:-1 tvg-id="6569" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="",CCTV央视文化精品 高清
 http://qhjx.top:18000/udp/238.255.2.32:5999
-#EXTINF:-1 tvg-id="6564" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV女性时尚 高清
+#EXTINF:-1 tvg-id="6564" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="",CCTV女性时尚 高清
 http://qhjx.top:18000/udp/238.255.2.27:5999
-#EXTINF:-1 tvg-id="6563" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV兵器科技 高清
+#EXTINF:-1 tvg-id="6563" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="",CCTV兵器科技 高清
 http://qhjx.top:18000/udp/238.255.2.34:5999
-#EXTINF:-1 tvg-id="6000" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV风云足球 高清
+#EXTINF:-1 tvg-id="6000" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="",CCTV风云足球 高清
 http://qhjx.top:18000/udp/238.255.2.29:5999
-#EXTINF:-1 tvg-id="6560" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV世界地理 高清
+#EXTINF:-1 tvg-id="6560" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="",CCTV世界地理 高清
 http://qhjx.top:18000/udp/238.255.2.26:5999
-#EXTINF:-1 tvg-id="6562" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV怀旧剧场 高清
+#EXTINF:-1 tvg-id="6562" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="",CCTV怀旧剧场 高清
 http://qhjx.top:18000/udp/238.255.2.33:5999
-#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV风云剧场 高清
+#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="",CCTV风云剧场 高清
 http://qhjx.top:18000/udp/238.255.2.28:5999
-#EXTINF:-1 tvg-id="6558" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV第一剧场 高清
+#EXTINF:-1 tvg-id="6558" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="",CCTV第一剧场 高清
 http://qhjx.top:18000/udp/238.255.2.25:5999
-#EXTINF:-1 tvg-id="6557" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV风云音乐 高清
+#EXTINF:-1 tvg-id="6557" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="",CCTV风云音乐 高清
 http://qhjx.top:18000/udp/238.255.2.24:5999
-#EXTINF:-1 tvg-id="6568" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV高尔夫 高清
+#EXTINF:-1 tvg-id="6568" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="",CCTV高尔夫 高清
 http://qhjx.top:18000/udp/238.255.2.223:5999
-#EXTINF:-1 tvg-id="6584" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV台球 高清
+#EXTINF:-1 tvg-id="6584" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="",CCTV台球 高清
 http://qhjx.top:18000/udp/238.255.2.224:5999
-#EXTINF:-1 tvg-id="22" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV4欧洲 高清
+#EXTINF:-1 tvg-id="22" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" group-title="",CCTV4欧洲 高清
 http://qhjx.top:18000/udp/238.255.2.213:5999
-#EXTINF:-1 tvg-id="23" tvg-country="" tvg-language="" tvg-logo="" group-title="",CCTV4美洲 高清
+#EXTINF:-1 tvg-id="23" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="",CCTV4美洲 高清
 http://qhjx.top:18000/udp/238.255.2.214:5999
-#EXTINF:-1 tvg-id="20" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN NEWS 高清
+#EXTINF:-1 tvg-id="20" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="",CGTN NEWS 高清
 http://qhjx.top:18000/udp/238.255.2.207:5999
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN FRANCAIS 高清
 http://qhjx.top:18000/udp/238.255.2.208:5999
@@ -76,75 +76,75 @@ http://qhjx.top:18000/udp/238.255.2.209:5999
 http://qhjx.top:18000/udp/238.255.2.210:5999
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN Arabic 高清
 http://qhjx.top:18000/udp/238.255.2.211:5999
-#EXTINF:-1 tvg-id="891" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN Documentary 高清
+#EXTINF:-1 tvg-id="891" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="",CGTN Documentary 高清
 http://qhjx.top:18000/udp/238.255.2.212:5999
-#EXTINF:-1 tvg-id="27" tvg-country="" tvg-language="" tvg-logo="" group-title="",湖南卫视 高清
+#EXTINF:-1 tvg-id="27" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="",湖南卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.88:5140
-#EXTINF:-1 tvg-id="2025" tvg-country="" tvg-language="" tvg-logo="" group-title="",金鹰纪实 高清
+#EXTINF:-1 tvg-id="2025" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="",金鹰纪实 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.130:5140
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",海南卫视 高清
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="",海南卫视 高清
 http://qhjx.top:18000/udp/238.255.2.58:5999
-#EXTINF:-1 tvg-id="28" tvg-country="" tvg-language="" tvg-logo="" group-title="",浙江卫视 高清
+#EXTINF:-1 tvg-id="28" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="",浙江卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.124:5140
-#EXTINF:-1 tvg-id="29" tvg-country="" tvg-language="" tvg-logo="" group-title="",江苏卫视 高清
+#EXTINF:-1 tvg-id="29" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="",江苏卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.89:5140
-#EXTINF:-1 tvg-id="30" tvg-country="" tvg-language="" tvg-logo="" group-title="",北京卫视 高清
+#EXTINF:-1 tvg-id="30" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="",北京卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.180:5140
-#EXTINF:-1 tvg-id="1872" tvg-country="" tvg-language="" tvg-logo="" group-title="",北京纪实 高清
+#EXTINF:-1 tvg-id="1872" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="",北京纪实 高清
 http://qhjx.top:18000/udp/238.255.2.107:5999
-#EXTINF:-1 tvg-id="31" tvg-country="" tvg-language="" tvg-logo="" group-title="",东方卫视 高清
+#EXTINF:-1 tvg-id="31" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="",东方卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.123:5140   
-#EXTINF:-1 tvg-id="1988" tvg-country="" tvg-language="" tvg-logo="" group-title="",纪实人文 高清
+#EXTINF:-1 tvg-id="1988" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="",纪实人文 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.137:5140
-#EXTINF:-1 tvg-id="1981" tvg-country="" tvg-language="" tvg-logo="" group-title="",生活时尚 高清
+#EXTINF:-1 tvg-id="1981" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="",生活时尚 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.42.29:5140
-#EXTINF:-1 tvg-id="32" tvg-country="" tvg-language="" tvg-logo="" group-title="",安徽卫视 高清
+#EXTINF:-1 tvg-id="32" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="",安徽卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.106:5140
-#EXTINF:-1 tvg-id="33" tvg-country="" tvg-language="" tvg-logo="" group-title="",广东卫视 高清
+#EXTINF:-1 tvg-id="33" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="",广东卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.181:5140
-#EXTINF:-1 tvg-id="34" tvg-country="" tvg-language="" tvg-logo="" group-title="",深圳卫视 高清
+#EXTINF:-1 tvg-id="34" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="",深圳卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.182:5140
-#EXTINF:-1 tvg-id="36" tvg-country="" tvg-language="" tvg-logo="" group-title="",辽宁卫视 高清
+#EXTINF:-1 tvg-id="36" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="",辽宁卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.108:5140
-#EXTINF:-1 tvg-id="38" tvg-country="" tvg-language="" tvg-logo="" group-title="",山东卫视 高清
+#EXTINF:-1 tvg-id="38" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="",山东卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.168:5140
-#EXTINF:-1 tvg-id="42" tvg-country="" tvg-language="" tvg-logo="" group-title="",甘肃卫视 高清
+#EXTINF:-1 tvg-id="42" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="",甘肃卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.81:5140
-#EXTINF:-1 tvg-id="39" tvg-country="" tvg-language="" tvg-logo="" group-title="",天津卫视 高清
+#EXTINF:-1 tvg-id="39" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="",天津卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.167:5140
-#EXTINF:-1 tvg-id="47" tvg-country="" tvg-language="" tvg-logo="" group-title="",河南卫视 高清
+#EXTINF:-1 tvg-id="47" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="",河南卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.42.45:5140
-#EXTINF:-1 tvg-id="48" tvg-country="" tvg-language="" tvg-logo="" group-title="",湖北卫视 高清
+#EXTINF:-1 tvg-id="48" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="",湖北卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.250:5140
-#EXTINF:-1 tvg-id="40" tvg-country="" tvg-language="" tvg-logo="" group-title="",重庆卫视 高清
+#EXTINF:-1 tvg-id="40" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="",重庆卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.107:5140
-#EXTINF:-1 tvg-id="41" tvg-country="" tvg-language="" tvg-logo="" group-title="",东南卫视 高清
+#EXTINF:-1 tvg-id="41" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="",东南卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.42:5140
-#EXTINF:-1 tvg-id="43" tvg-country="" tvg-language="" tvg-logo="" group-title="",广西卫视 高清
+#EXTINF:-1 tvg-id="43" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="",广西卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.42.46:5140
-#EXTINF:-1 tvg-id="44" tvg-country="" tvg-language="" tvg-logo="" group-title="",贵州卫视 高清
+#EXTINF:-1 tvg-id="44" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="",贵州卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.131:5140
-#EXTINF:-1 tvg-id="45" tvg-country="" tvg-language="" tvg-logo="" group-title="",河北卫视 高清
+#EXTINF:-1 tvg-id="45" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="",河北卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.132:5140
-#EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="" group-title="",四川卫视 高清
+#EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="",四川卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.20:1235
-#EXTINF:-1 tvg-id="2060" tvg-country="" tvg-language="" tvg-logo="" group-title="",峨眉电影 高清
+#EXTINF:-1 tvg-id="2060" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="",峨眉电影 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.252:5140
-#EXTINF:-1 tvg-id="59" tvg-country="" tvg-language="" tvg-logo="" group-title="",青海卫视 高清
+#EXTINF:-1 tvg-id="59" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="",青海卫视 高清
 http://qhjx.top:18000/udp/238.255.2.51:5999
-#EXTINF:-1 tvg-id="46" tvg-country="" tvg-language="" tvg-logo="" group-title="",黑龙江卫视 高清
+#EXTINF:-1 tvg-id="46" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="",黑龙江卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.183:5140
-#EXTINF:-1 tvg-id="50" tvg-country="" tvg-language="" tvg-logo="" group-title="",江西卫视 高清
+#EXTINF:-1 tvg-id="50" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="",江西卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.134:5140
-#EXTINF:-1 tvg-id="51" tvg-country="" tvg-language="" tvg-logo="" group-title="",吉林卫视 高清
+#EXTINF:-1 tvg-id="51" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="",吉林卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.248:5140
-#EXTINF:-1 tvg-id="52" tvg-country="" tvg-language="" tvg-logo="" group-title="",内蒙古卫视 高清
+#EXTINF:-1 tvg-id="52" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 高清
 http://home.zuopeng.club:8888/udp/239.125.1.59:5000
 #EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="",CETV1 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.111:5140
-#EXTINF:-1 tvg-id="141" tvg-country="" tvg-language="" tvg-logo="" group-title="",凤凰卫视 高清
+#EXTINF:-1 tvg-id="141" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="",凤凰卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-id="142" tvg-country="" tvg-language="" tvg-logo="" group-title="",凤凰资讯 高清
+#EXTINF:-1 tvg-id="142" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="",凤凰资讯 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 超高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.97:5140
@@ -152,25 +152,25 @@ http://zhaomeng.ddns.net:4000/udp/239.93.0.97:5140
 http://zhaomeng.ddns.net:4000/udp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K 超高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.43:5140
-#EXTINF:-1 tvg-id="1963" tvg-country="" tvg-language="" tvg-logo="" group-title="",新视觉 高清
+#EXTINF:-1 tvg-id="1963" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="",新视觉 高清
 http://qhjx.top:18000/udp/238.255.2.195:5999
-#EXTINF:-1 tvg-id="1983" tvg-country="" tvg-language="" tvg-logo="" group-title="",游戏风云 高清
+#EXTINF:-1 tvg-id="1983" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="",游戏风云 高清
 http://qhjx.top:18000/udp/238.255.2.197:5999
-#EXTINF:-1 tvg-id="1987" tvg-country="" tvg-language="" tvg-logo="" group-title="",五星体育 高清
+#EXTINF:-1 tvg-id="1987" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="",五星体育 高清
 http://114.95.242.168:8888/udp/239.45.3.106:5140
-#EXTINF:-1 tvg-id="7242" tvg-country="" tvg-language="" tvg-logo="" group-title="",魅力足球 高清
+#EXTINF:-1 tvg-id="7242" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="",魅力足球 高清
 http://60.208.16.27:1505/gudou.php?id=364&id=meiliyinyueHD_7000
-#EXTINF:-1 tvg-id="1964" tvg-country="" tvg-language="" tvg-logo="" group-title="",劲爆体育 高清
+#EXTINF:-1 tvg-id="1964" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="",劲爆体育 高清
 http://60.208.16.27:1505/gudou.php?id=364&id=jinbaotiyuHD_7000
-#EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="" group-title="",求索纪录 高清
+#EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="",求索纪录 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.42.24:5140
-#EXTINF:-1 tvg-id="6240" tvg-country="" tvg-language="" tvg-logo="" group-title="",求索科学 高清
+#EXTINF:-1 tvg-id="6240" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="",求索科学 高清
 http://60.208.16.27:1505/gudou.php?id=364&id=qiusuokexueHD_7000
-#EXTINF:-1 tvg-id="6242" tvg-country="" tvg-language="" tvg-logo="" group-title="",求索动物 高清
+#EXTINF:-1 tvg-id="6242" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="",求索动物 高清
 http://60.208.16.27:1505/gudou.php?id=364&id=QSDWHD_7000
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",求索生活 高清
 http://60.208.16.27:1505/gudou.php?id=364&id=1612
-#EXTINF:-1 tvg-id="6241" tvg-country="" tvg-language="" tvg-logo="" group-title="",CHC高清电影 高清
+#EXTINF:-1 tvg-id="6241" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="",CHC高清电影 高清
 http://60.208.16.27:1505/gudou.php?id=364&id=CHCHD_7000
 #EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="",翡翠台 高清
 http://60.208.16.27:1505/gudou.php?id=364&id=1350_4500
