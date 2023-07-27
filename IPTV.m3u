@@ -96,6 +96,8 @@ http://qhjx.top:18000/udp/238.255.2.107:5999
 http://zhaomeng.ddns.net:4000/udp/239.93.0.123:5140   
 #EXTINF:-1 tvg-id="1988" tvg-country="" tvg-language="" tvg-logo="" group-title="",纪实人文 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.137:5140
+#EXTINF:-1 tvg-id="1988" tvg-country="" tvg-language="" tvg-logo="" group-title="",生活时尚 高清
+http://zhaomeng.ddns.net:4000/udp/239.93.42.29:5140
 #EXTINF:-1 tvg-id="32" tvg-country="" tvg-language="" tvg-logo="" group-title="",安徽卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.1.106:5140
 #EXTINF:-1 tvg-id="33" tvg-country="" tvg-language="" tvg-logo="" group-title="",广东卫视 高清
@@ -161,7 +163,7 @@ http://60.208.16.27:1505/gudou.php?id=364&id=meiliyinyueHD_7000
 #EXTINF:-1 tvg-id="1987" tvg-country="" tvg-language="" tvg-logo="" group-title="",劲爆体育 高清
 http://60.208.16.27:1505/gudou.php?id=364&id=jinbaotiyuHD_7000
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",求索纪录 高清
-http://60.208.16.27:1505/gudou.php?id=364&id=QSJLHD_7000
+http://zhaomeng.ddns.net:4000/udp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",求索科学 高清
 http://60.208.16.27:1505/gudou.php?id=364&id=qiusuokexueHD_7000
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",求索动物 高清
