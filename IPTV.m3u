@@ -82,7 +82,7 @@ http://qhjx.top:18000/udp/238.255.2.212:5999
 http://zhaomeng.ddns.net:4000/udp/239.93.0.88:5140
 #EXTINF:-1 tvg-id="2025" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="",金鹰纪实 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.130:5140
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="",海南卫视 高清
+#EXTINF:-1 tvg-id="37" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="",海南卫视 高清
 http://qhjx.top:18000/udp/238.255.2.58:5999
 #EXTINF:-1 tvg-id="28" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="",浙江卫视 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.124:5140
