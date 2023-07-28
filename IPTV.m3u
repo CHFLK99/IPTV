@@ -154,7 +154,7 @@ http://zhaomeng.ddns.net:4000/udp/239.93.42.33:5140
 http://zhaomeng.ddns.net:4000/udp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="1963" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="",新视觉 高清
 http://qhjx.top:18000/udp/238.255.2.195:5999
-#EXTINF:-1 tvg-id="1983" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="",游戏风云 高清
+#EXTINF:-1 tvg-id="1983" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="",游戏风云 高清
 http://qhjx.top:18000/udp/238.255.2.197:5999
 #EXTINF:-1 tvg-id="1987" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="",五星体育 高清
 http://114.95.242.168:8888/udp/239.45.3.106:5140
