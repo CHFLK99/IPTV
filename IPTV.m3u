@@ -163,7 +163,7 @@ http://zhaomeng.ddns.net:4000/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="142" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="",凤凰资讯 高清
 http://zhaomeng.ddns.net:4000/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 超高清
-http://hjb.mba:8888/udp/239.69.1.141:10482
+http://vig0r.synology.me:8888/udp/239.69.1.141:10482
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 超高清
 http://hjb.mba:8888/udp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K 超高清
