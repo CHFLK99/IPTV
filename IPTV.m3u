@@ -25,7 +25,7 @@ http://vig0r.synology.me:8888/udp/239.69.1.154:10560
 #EXTINF:-1 tvg-id="13" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="",CCTV12 高清
 http://vig0r.synology.me:8888/udp/239.69.1.106:10274
 #EXTINF:-1 tvg-id="14" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="",CCTV13 高清
-http://vig0r.synology.me:8888/udp/239.254.104.161:9040
+http://vig0r.synology.me:8888/udp/239.254.96.161:9040
 #EXTINF:-1 tvg-id="15" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="",CCTV14 高清
 http://vig0r.synology.me:8888/udp/239.69.1.107:10280
 #EXTINF:-1 tvg-id="16" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="",CCTV15 高清
