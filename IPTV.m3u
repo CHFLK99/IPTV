@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
 #EXTINF:-1 tvg-id="1" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="",CCTV1 高清
-http://vig0r.synology.me:8888/udp/239.254.104.96:8550
+http://vig0r.synology.me:8888/udp/239.254.96.96:8550
 #EXTINF:-1 tvg-id="2" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="",CCTV2 高清
 http://vig0r.synology.me:8888/udp/239.69.1.102:10250
 #EXTINF:-1 tvg-id="3" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="",CCTV3 高清
