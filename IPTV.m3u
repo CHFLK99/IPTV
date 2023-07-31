@@ -149,7 +149,7 @@ http://hjb.mba:8888/udp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="59" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="",青海卫视 高清
 http://qhjx.top:18000/udp/238.255.2.51:5999
 #EXTINF:-1 tvg-id="46" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="",黑龙江卫视 高清
-http://vig0r.synology.me:8888/udp/239.254.104.138:8902
+http://vig0r.synology.me:8888/udp/239.254.96.138:8902
 #EXTINF:-1 tvg-id="50" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="",江西卫视 高清
 http://vig0r.synology.me:8888/udp/239.69.1.126:10394
 #EXTINF:-1 tvg-id="51" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="",吉林卫视 高清
