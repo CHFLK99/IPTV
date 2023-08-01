@@ -159,9 +159,11 @@ http://home.zuopeng.club:8888/udp/239.125.1.59:5000
 #EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="",CETV1 高清
 http://vig0r.synology.me:8888/udp/239.69.1.110:10298
 #EXTINF:-1 tvg-id="141" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="",凤凰卫视 高清
-http://zhaomeng.ddns.net:4000/udp/239.93.0.162:2192
+http://www.pr666.site:4040/udp/239.255.30.50:8231
 #EXTINF:-1 tvg-id="142" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="",凤凰资讯 高清
-http://zhaomeng.ddns.net:4000/udp/239.93.0.118:2191
+http://www.pr666.site:4040/udp/239.255.30.70:8231
+#EXTINF:-1 tvg-id="143" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="",凤凰香港 高清
+http://www.pr666.site:4040/udp/239.255.30.123:8231
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 超高清
 http://vig0r.synology.me:8888/udp/239.69.1.141:10482
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 超高清
