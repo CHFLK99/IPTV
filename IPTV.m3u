@@ -154,6 +154,8 @@ http://222.210.186.60:8888/rtp/239.93.42.97:5140
 http://222.210.186.60:8888/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱电竞 高清
 http://222.210.186.60:8888/rtp/239.93.42.19:5140
+#EXTINF:-1 tvg-id="85" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="",电竞天堂 高清
+http://222.210.186.60:8888/rtp/239.93.1.135:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 超高清
 http://222.210.186.60:8888/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 超高清
@@ -176,5 +178,4 @@ http://222.210.186.60:8888/rtp/239.93.42.86:5140
 http://222.210.186.60:8888/rtp/239.93.42.87:5140	
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="",全球大片 高清
 http://222.210.186.60:8888/rtp/239.93.42.90:5140
-#EXTINF:-1 tvg-id="85" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="",电竞天堂 高清
-http://222.210.186.60:8888/rtp/239.93.1.135:5140	
+
