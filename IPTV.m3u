@@ -140,12 +140,6 @@ http://222.210.186.60:8888/rtp/239.93.1.111:5140
 http://222.210.186.60:8888/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="142" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="",凤凰资讯 高清
 http://222.210.186.60:8888/rtp/239.93.0.118:2191
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 超高清
-http://222.210.186.60:8888/rtp/239.93.0.97:5140
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 超高清
-http://222.210.186.60:8888/rtp/239.93.42.33:5140
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K 超高清
-http://222.210.186.60:8888/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="1963" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="",新视觉 高清
 #
 #EXTINF:-1 tvg-id="1983" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="",游戏风云 高清
@@ -160,6 +154,12 @@ http://222.210.186.60:8888/rtp/239.93.42.97:5140
 http://222.210.186.60:8888/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱电竞 高清
 http://222.210.186.60:8888/rtp/239.93.42.19:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 超高清
+http://222.210.186.60:8888/rtp/239.93.0.97:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 超高清
+http://222.210.186.60:8888/rtp/239.93.42.33:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K 超高清
+http://222.210.186.60:8888/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="6241" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="",CHC高清电影 高清
 http://222.210.186.60:8888/rtp/239.93.42.5:5140
 #EXTINF:-1 tvg-id="6245" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="",CHC动作电影 高清
