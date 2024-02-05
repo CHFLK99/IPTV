@@ -41,49 +41,39 @@ http://222.210.186.60:8888/rtp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="106" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="",CCTV4K 超高清
 http://222.210.186.60:8888/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="6569" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="",CCTV央视文化精品 高清
-http://qhjx.top:18000/udp/238.255.2.32:5999
+http://222.210.186.60:8888/rtp/239.93.42.47:5140
 #EXTINF:-1 tvg-id="6564" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="",CCTV女性时尚 高清
-http://qhjx.top:18000/udp/238.255.2.27:5999
+http://222.210.186.60:8888/rtp/239.93.42.62:5140	
 #EXTINF:-1 tvg-id="6563" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="",CCTV兵器科技 高清
-http://qhjx.top:18000/udp/238.255.2.34:5999
+http://222.210.186.60:8888/rtp/239.93.1.235:5140	
 #EXTINF:-1 tvg-id="6000" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="",CCTV风云足球 高清
-http://qhjx.top:18000/udp/238.255.2.29:5999
+http://222.210.186.60:8888/rtp/239.93.0.235:5140
 #EXTINF:-1 tvg-id="6560" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="",CCTV世界地理 高清
-http://qhjx.top:18000/udp/238.255.2.26:5999
+http://222.210.186.60:8888/rtp/239.93.1.157:5140
 #EXTINF:-1 tvg-id="6562" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="",CCTV怀旧剧场 高清
-http://qhjx.top:18000/udp/238.255.2.33:5999
+http://222.210.186.60:8888/rtp/239.93.1.198:5140
 #EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="",CCTV风云剧场 高清
-http://qhjx.top:18000/udp/238.255.2.28:5999
+http://222.210.186.60:8888/rtp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="6558" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="",CCTV第一剧场 高清
-http://qhjx.top:18000/udp/238.255.2.25:5999
+http://222.210.186.60:8888/rtp/239.93.1.197:5140
 #EXTINF:-1 tvg-id="6557" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="",CCTV风云音乐 高清
-http://qhjx.top:18000/udp/238.255.2.24:5999
-#EXTINF:-1 tvg-id="6568" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="",CCTV高尔夫 高清
-http://qhjx.top:18000/udp/238.255.2.223:5999
+http://222.210.186.60:8888/rtp/239.93.0.224:5140
+#EXTINF:-1 tvg-id="6568" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="",CCTV高尔夫网球 高清
+http://222.210.186.60:8888/rtp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="6584" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="",CCTV台球 高清
-http://qhjx.top:18000/udp/238.255.2.224:5999
-#EXTINF:-1 tvg-id="22" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" group-title="",CCTV4欧洲 高清
-http://qhjx.top:18000/udp/238.255.2.213:5999
-#EXTINF:-1 tvg-id="23" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="",CCTV4美洲 高清
-http://qhjx.top:18000/udp/238.255.2.214:5999
+http://222.210.186.60:8888/rtp/239.93.0.218:5140
 #EXTINF:-1 tvg-id="20" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="",CGTN NEWS 高清
-http://qhjx.top:18000/udp/238.255.2.207:5999
+http://222.210.186.60:8888/rtp/239.93.0.104:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN FRANCAIS 高清
-http://qhjx.top:18000/udp/238.255.2.208:5999
+http://222.210.186.60:8888/rtp/239.93.42.50:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN ESPANOL 高清
-http://qhjx.top:18000/udp/238.255.2.209:5999
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN Russian 高清
-http://qhjx.top:18000/udp/238.255.2.210:5999
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN Arabic 高清
-http://qhjx.top:18000/udp/238.255.2.211:5999
-#EXTINF:-1 tvg-id="891" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="",CGTN Documentary 高清
-http://qhjx.top:18000/udp/238.255.2.212:5999
+http://222.210.186.60:8888/rtp/239.93.42.49:5140
 #EXTINF:-1 tvg-id="27" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="",湖南卫视 高清
 http://222.210.186.60:8888/rtp/239.93.0.88:5140
 #EXTINF:-1 tvg-id="2025" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="",金鹰纪实 高清
 http://222.210.186.60:8888/rtp/239.93.0.130:5140
 #EXTINF:-1 tvg-id="37" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="",海南卫视 高清
-http://qhjx.top:18000/udp/238.255.2.58:5999
+#
 #EXTINF:-1 tvg-id="28" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="",浙江卫视 高清
 http://222.210.186.60:8888/rtp/239.93.0.124:5140
 #EXTINF:-1 tvg-id="29" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="",江苏卫视 高清
@@ -91,7 +81,7 @@ http://222.210.186.60:8888/rtp/239.93.0.89:5140
 #EXTINF:-1 tvg-id="30" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="",北京卫视 高清
 http://222.210.186.60:8888/rtp/239.93.0.180:5140
 #EXTINF:-1 tvg-id="1872" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="",北京纪实 高清
-http://qhjx.top:18000/udp/238.255.2.107:5999
+#
 #EXTINF:-1 tvg-id="31" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="",东方卫视 高清
 http://222.210.186.60:8888/rtp/239.93.0.123:5140   
 #EXTINF:-1 tvg-id="1988" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="",纪实人文 高清
@@ -131,7 +121,7 @@ http://222.210.186.60:8888/rtp/239.93.0.20:1235
 #EXTINF:-1 tvg-id="2060" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="",峨眉电影 高清
 http://222.210.186.60:8888/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="59" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="",青海卫视 高清
-http://qhjx.top:18000/udp/238.255.2.51:5999
+#
 #EXTINF:-1 tvg-id="46" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="",黑龙江卫视 高清
 http://222.210.186.60:8888/rtp/239.93.0.183:5140
 #EXTINF:-1 tvg-id="50" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="",江西卫视 高清
@@ -139,7 +129,7 @@ http://222.210.186.60:8888/rtp/239.93.0.134:5140
 #EXTINF:-1 tvg-id="51" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="",吉林卫视 高清
 http://222.210.186.60:8888/rtp/239.93.0.248:5140
 #EXTINF:-1 tvg-id="52" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 高清
-http://home.zuopeng.club:8888/udp/239.125.1.59:5000
+#
 #EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="",CETV1 高清
 http://222.210.186.60:8888/rtp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="141" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="",凤凰卫视 高清
@@ -152,32 +142,53 @@ http://222.210.186.60:8888/rtp/239.93.0.97:5140
 http://222.210.186.60:8888/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K 超高清
 http://222.210.186.60:8888/rtp/239.93.0.43:5140
+
 #EXTINF:-1 tvg-id="1963" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="",新视觉 高清
-http://qhjx.top:18000/udp/238.255.2.195:5999
+#
 #EXTINF:-1 tvg-id="1983" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="",游戏风云 高清
-http://qhjx.top:18000/udp/238.255.2.197:5999
+#
 #EXTINF:-1 tvg-id="1987" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="",五星体育 高清
-http://114.95.242.168:8888/udp/239.45.3.106:5140
+#
 #EXTINF:-1 tvg-id="7242" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="",魅力足球 高清
-http://60.208.16.27:1505/gudou.php?id=364&id=meiliyinyueHD_7000
+http://222.210.186.60:8888/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="1964" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="",劲爆体育 高清
-http://60.208.16.27:1505/gudou.php?id=364&id=jinbaotiyuHD_7000
+#
 #EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="",求索纪录 高清
 http://222.210.186.60:8888/rtp/239.93.42.24:5140
-#EXTINF:-1 tvg-id="6240" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="",求索科学 高清
-http://60.208.16.27:1505/gudou.php?id=364&id=qiusuokexueHD_7000
-#EXTINF:-1 tvg-id="6242" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="",求索动物 高清
-http://60.208.16.27:1505/gudou.php?id=364&id=QSDWHD_7000
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",求索生活 高清
-http://60.208.16.27:1505/gudou.php?id=364&id=1612
+#EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱电竞 高清
+http://222.210.186.60:8888/rtp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="6241" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="",CHC高清电影 高清
-http://vig0r.synology.me:8888/udp/239.69.1.241:11088
+http://222.210.186.60:8888/rtp/239.93.42.5:5140
 #EXTINF:-1 tvg-id="6245" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="",CHC动作电影 高清
-http://vig0r.synology.me:8888/udp/239.69.1.242:11094
+http://222.210.186.60:8888/rtp/239.93.42.7:5140
 #EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="",CHC家庭电影 高清
-http://vig0r.synology.me:8888/udp/239.69.1.243:11100
+http://222.210.186.60:8888/rtp/239.93.42.6:5140
+#EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="",欢笑剧场 4K
+http://222.210.186.60:8888/rtp/239.93.0.145:5140
+
 #EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="",翡翠台 高清
-http://60.208.16.27:1505/gudou.php?id=364&id=1350_4500
+https://sc2024.stream-link.org/live/2197370105.php?id=h52ff
+#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="" group-title="",J2 高清
+https://sc2024.stream-link.org/live/2197370105.php?id=h24vg
+#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="" group-title="",无线新闻 高清
+https://sc2024.stream-link.org/live/2197370105.php?id=h84wc
+#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="" group-title="",Now新闻 高清
+https://sc2024.stream-link.org/live/2197370105.php?id=h73vu
+#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="" group-title="",ViuTV 高清
+https://sc2024.stream-link.org/live/2197370105.php?id=h66tc
+#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="" group-title="",娱乐新闻 高清
+https://sc2024.stream-link.org/live/2197370105.php?id=h80qb
+
+#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="" group-title="",港台电视31 高清
+https://sc2024.stream-link.org/live/2197370105.php?id=h29ma
+#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="" group-title="",港台电视32 高清
+https://sc2024.stream-link.org/live/2197370105.php?id=h31zm
+#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="" group-title="",港台电视33 高清
+https://sc2024.stream-link.org/live/2197370105.php?id=h54ch
+#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="" group-title="",香港开电视 高清
+https://sc2024.stream-link.org/live/2197370105.php?id=h92rn
+
+
 #EXTINF:-1 tvg-id="127" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="",明珠台 高清
 http://60.208.16.27:1505/gudou.php?id=364&id=1351_4500
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",星空卫视 高清
