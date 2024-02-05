@@ -39,7 +39,7 @@ http://222.210.186.60:8888/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="6" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="",CCTV5+ 高清
 http://222.210.186.60:8888/rtp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="106" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="",CCTV4K 超高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+http://222.210.186.60:8888/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="6569" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="",CCTV央视文化精品 高清
 http://qhjx.top:18000/udp/238.255.2.32:5999
 #EXTINF:-1 tvg-id="6564" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="",CCTV女性时尚 高清
