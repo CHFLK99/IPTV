@@ -169,7 +169,7 @@ http://222.210.186.60:8888/rtp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="1977" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="",欢笑剧场 4K
 http://222.210.186.60:8888/rtp/239.93.0.145:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="",爱科幻 高清
-239.93.42.10:5140
+http://222.210.186.60:8888/rtp/239.93.42.10:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="",华语电影 高清
 http://222.210.186.60:8888/rtp/239.93.42.86:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="",星空院线 高清
