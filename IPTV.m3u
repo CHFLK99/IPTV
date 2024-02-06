@@ -31,9 +31,9 @@ http://222.210.186.60:8888/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="16" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="",CCTV15 高清
 http://222.210.186.60:8888/rtp/239.93.0.103:5140
 #EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16 高清
-#
+http://221.234.220.154:4022/rtp/239.69.1.247:11124
 #EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16 4K
-http://222.210.186.60:8888/rtp/239.69.1.247:11124
+#
 #EXTINF:-1 tvg-id="17" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="",CCTV17 高清
 http://222.210.186.60:8888/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="6" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="",CCTV5+ 高清
