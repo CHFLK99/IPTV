@@ -153,7 +153,7 @@ http://222.210.186.60:8888/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="1964" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="",劲爆体育 高清
 http://222.210.186.60:8888/rtp/239.93.42.98:5140
 #EXTINF:-1 tvg-id="1976" tvg-country="" tvg-language="" tvg-logo="" group-title="",全纪实 高清
-http://221.234.220.154:4022/rtp/239.254.104.38:8202
+#
 #EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="",求索纪录 高清
 http://222.210.186.60:8888/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱电竞 高清
