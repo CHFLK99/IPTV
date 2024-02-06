@@ -151,7 +151,7 @@ http://222.210.186.60:8888/rtp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="7242" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="",魅力足球 高清
 http://222.210.186.60:8888/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="1964" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="",劲爆体育 高清
-#
+http://222.210.186.60:8888/rtp/239.93.42.98:5140
 #EXTINF:-1 tvg-id="1976" tvg-country="" tvg-language="" tvg-logo="" group-title="",全纪实 高清
 http://221.234.220.154:4022/rtp/239.254.104.38:8202
 #EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="",求索纪录 高清
@@ -160,6 +160,12 @@ http://222.210.186.60:8888/rtp/239.93.42.24:5140
 http://222.210.186.60:8888/rtp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="85" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="",电竞天堂 高清
 http://222.210.186.60:8888/rtp/239.93.1.135:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",BESTV港片 高清
+http://222.210.186.60:8888/rtp/239.93.42.86:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",BESTV 高清
+http://222.210.186.60:8888/rtp/239.93.42.87:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",BESTV全球大片 高清
+http://222.210.186.60:8888/rtp/239.93.42.90:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 超高清
 http://222.210.186.60:8888/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 超高清
@@ -180,6 +186,5 @@ http://222.210.186.60:8888/rtp/239.93.42.10:5140
 http://222.210.186.60:8888/rtp/239.93.42.86:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",星空院线 高清
 http://222.210.186.60:8888/rtp/239.93.42.87:5140	
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",全球大片 高清
-http://222.210.186.60:8888/rtp/239.93.42.90:5140
+
 
