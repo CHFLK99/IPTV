@@ -39,7 +39,7 @@ http://vig0r.synology.me:8888/udp/239.69.1.152:10548
 #EXTINF:-1 tvg-id="6" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="",CCTV5+ 高清
 http://vig0r.synology.me:8888/udp/239.254.96.234:9484
 #EXTINF:-1 tvg-id="106" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="",CCTV4K 超高清
-http://vig0r.synology.me:8888/udp/239.69.1.12:9712
+http://221.234.220.154:4022/rtp/239.69.1.111:10304
 #EXTINF:-1 tvg-id="6569" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="",CCTV央视文化精品 高清
 http://qhjx.top:18000/udp/238.255.2.32:5999
 #EXTINF:-1 tvg-id="6564" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="",CCTV女性时尚 高清
