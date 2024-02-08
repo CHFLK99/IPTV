@@ -160,6 +160,12 @@ http://ljiang108.top:8123/rtp/239.93.42.24:5140
 http://ljiang108.top:8123/rtp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="85" tvg-country="" tvg-language="" tvg-logo="" group-title="",电竞天堂 高清
 http://ljiang108.top:8123/rtp/239.93.1.135:5140
+#EXTINF:-1 tvg-id="6241" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="",CHC高清电影 高清
+http://ljiang108.top:8123/rtp/239.93.42.5:5140
+#EXTINF:-1 tvg-id="6245" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="",CHC动作电影 高清
+http://ljiang108.top:8123/rtp/239.93.42.7:5140
+#EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="",CHC家庭电影 高清
+http://ljiang108.top:8123/rtp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",华语影院 高清
 http://ljiang108.top:8123/rtp/239.93.42.86:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",星光院线 高清
@@ -172,15 +178,16 @@ http://ljiang108.top:8123/rtp/239.93.0.97:5140
 http://ljiang108.top:8123/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K 超高清
 http://ljiang108.top:8123/rtp/239.93.0.43:5140
-#EXTINF:-1 tvg-id="6241" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="",CHC高清电影 高清
-http://ljiang108.top:8123/rtp/239.93.42.5:5140
-#EXTINF:-1 tvg-id="6245" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="",CHC动作电影 高清
-http://ljiang108.top:8123/rtp/239.93.42.7:5140
-#EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="",CHC家庭电影 高清
-http://ljiang108.top:8123/rtp/239.93.42.6:5140
-#EXTINF:-1 tvg-id="1977" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="",欢笑剧场 4K
-http://ljiang108.top:8123/rtp/239.93.0.145:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱科幻 高清
 http://ljiang108.top:8123/rtp/239.93.42.10:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱喜剧 高清
+http://ljiang108.top:8123/rtp/239.93.42.9:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱院线 高清
+http://ljiang108.top:8123/rtp/239.93.42.11:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱怀旧 高清
+http://ljiang108.top:8123/rtp/239.93.42.21:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱奇谈 高清
+http://ljiang108.top:8123/rtp/239.93.42.22:5140
+
 
 
