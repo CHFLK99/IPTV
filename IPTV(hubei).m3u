@@ -194,3 +194,5 @@ http://dd.ikhs.cn:8880/rtp/239.69.1.241:11088
 http://dd.ikhs.cn:8880/rtp/239.69.1.242:11094
 #EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="",CHC家庭电影 高清
 http://dd.ikhs.cn:8880/rtp/239.69.1.243:11100
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",BESTV测试 4K
+http://dd.ikhs.cn:8880/rtp/239.69.1.26:9796
