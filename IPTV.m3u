@@ -31,7 +31,7 @@ http://ljiang108.top:8123/rtp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="16" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="",CCTV15 高清
 http://ljiang108.top:8123/rtp/239.93.0.103:5140
 #EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16 高清
-http://221.234.220.154:4022/rtp/239.69.1.247:11124
+http://dd.ikhs.cn:8880/rtp/239.69.1.247:11124
 #EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16 4K
 #
 #EXTINF:-1 tvg-id="17" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="",CCTV17 高清
@@ -63,9 +63,9 @@ http://ljiang108.top:8123/rtp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="6584" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="",CCTV台球 高清
 http://ljiang108.top:8123/rtp/239.93.0.218:5140
 #EXTINF:-1 tvg-id="23" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="",CCTV美洲 高清
-http://221.234.220.154:4022/rtp/239.69.1.232:11034
+http://dd.ikhs.cn:8880/rtp/239.69.1.232:11034
 #EXTINF:-1 tvg-id="22" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" group-title="",CCTV欧洲 高清
-http://221.234.220.154:4022/rtp/239.69.1.231:11028
+http://dd.ikhs.cn:8880/rtp/239.69.1.231:11028
 #EXTINF:-1 tvg-id="20" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="",CGTN NEWS 高清
 http://ljiang108.top:8123/rtp/239.93.0.104:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN FRANCAIS 高清
@@ -77,7 +77,7 @@ http://ljiang108.top:8123/rtp/239.93.0.88:5140
 #EXTINF:-1 tvg-id="2025" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="",金鹰纪实 高清
 http://ljiang108.top:8123/rtp/239.93.0.130:5140
 #EXTINF:-1 tvg-id="37" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="",海南卫视 高清
-http://221.234.220.154:4022/rtp/239.69.1.151:10542
+http://dd.ikhs.cn:8880/rtp/239.69.1.151:10542
 #EXTINF:-1 tvg-id="28" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="",浙江卫视 高清
 http://ljiang108.top:8123/rtp/239.93.0.124:5140
 #EXTINF:-1 tvg-id="29" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="",江苏卫视 高清
