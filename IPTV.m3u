@@ -136,7 +136,6 @@ http://ljiang108.top:8123/rtp/239.93.0.248:5140
 http://ljiang108.top:8123/rtp/239.93.1.174:5140
 #EXTINF:-1 tvg-id="52" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 高清
 #
-
 #EXTINF:-1 tvg-id="72" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="",三沙卫视 高清
 http://115.45.101.165:8888/rtp/239.253.43.113:5146
 #EXTINF:-1 tvg-id="57" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="",新疆卫视 高清
@@ -161,6 +160,8 @@ http://ljiang108.top:8123/rtp/239.93.42.98:5140
 #
 #EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="",求索纪录 高清
 http://ljiang108.top:8123/rtp/239.93.42.24:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",求索生活 高清
+http://115.45.101.165:8888/rtp/239.77.0.153:5146
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱电竞 高清
 http://ljiang108.top:8123/rtp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="85" tvg-country="" tvg-language="" tvg-logo="" group-title="",电竞天堂 高清
