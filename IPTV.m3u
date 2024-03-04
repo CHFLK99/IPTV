@@ -136,10 +136,12 @@ http://ljiang108.top:8123/rtp/239.93.0.248:5140
 http://ljiang108.top:8123/rtp/239.93.1.174:5140
 #EXTINF:-1 tvg-id="52" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 高清
 #
+#EXTINF:-1 tvg-id="55" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="",陕西卫视 高清
+http://tiger81.i234.me:8888/rtp/239.109.205.66:8464
+#EXTINF:-1 tvg-id="57" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="",新疆卫视 高清
+http://office.gofaraway.top:888/udp/238.125.7.145:5140
 #EXTINF:-1 tvg-id="72" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="",三沙卫视 高清
 http://eoneqiu.eu.org:7000/rtp/239.253.43.113:5146
-#EXTINF:-1 tvg-id="57" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="",新疆卫视 高清
-http://office.gofaraway.top:888/udp/238.125.7.145:5140  
 #EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="",CETV1 高清
 http://ljiang108.top:8123/rtp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="141" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="",凤凰卫视 高清
