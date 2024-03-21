@@ -9,7 +9,7 @@ http://ljiang108.top:8123/rtp/239.93.1.11:2223
 #EXTINF:-1 tvg-id="4" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="",CCTV4 高清
 http://ljiang108.top:8123/rtp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="5" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="",CCTV5 高清
-http://ljiang108.top:8123/rtp/239.93.1.12:2224
+http://ljiang108.top:8123/rtp/239.93.42.37:5140
 #EXTINF:-1 tvg-id="7" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="",CCTV6 高清
 http://ljiang108.top:8123/rtp/239.93.1.13:2226
 #EXTINF:-1 tvg-id="8" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="",CCTV7 高清
