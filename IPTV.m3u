@@ -32,7 +32,7 @@ http://ljiang108.top:8123/rtp/239.93.1.29:6000
 http://ljiang108.top:8123/rtp/239.93.0.103:5140
 #EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16 高清
 http://www.wky.weiketong.cf:2222/rtp/239.69.1.247:11124
-#EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16 4K
+#EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16 超高清
 http://www.wky.weiketong.cf:2222/rtp/239.69.1.249:11136
 #EXTINF:-1 tvg-id="17" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="",CCTV17 高清
 http://ljiang108.top:8123/rtp/239.93.0.92:5140
