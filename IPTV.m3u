@@ -68,7 +68,7 @@ http://www.wky.weiketong.cf:2222/rtp/239.69.1.232:11034
 http://www.wky.weiketong.cf:2222/rtp/239.69.1.231:11028
 #EXTINF:-1 tvg-id="20" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="",CGTN NEWS 高清
 http://ljiang108.top:8123/rtp/239.93.0.104:5140
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="",CGTN FRANCAIS 高清
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="",CGTN FRANCAIS 高清https://www.google.com/
 http://ljiang108.top:8123/rtp/239.93.42.50:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="",CGTN ESPANOL 高清
 http://ljiang108.top:8123/rtp/239.93.42.49:5140
@@ -159,7 +159,7 @@ http://ljiang108.top:8123/rtp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="1964" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="",劲爆体育 高清
 http://ljiang108.top:8123/rtp/239.93.42.98:5140
 #EXTINF:-1 tvg-id="1976" tvg-country="" tvg-language="" tvg-logo="" group-title="",全纪实 高清
-#
+http://ljiang108.top:8123/rtp/239.93.42.94:5140
 #EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="",求索纪录 高清
 http://ljiang108.top:8123/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",求索生活 高清
