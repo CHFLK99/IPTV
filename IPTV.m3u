@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/CHFLK99/IPTV/main/e.xml"
 
 #EXTINF:-1 tvg-id="1" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="",CCTV1 高清
 http://nas.cafeng.top:9080/rtp/239.93.0.184:5140
