@@ -125,7 +125,7 @@ http://home.sunruilin.com:4443/rtp/239.93.0.20:1235
 #EXTINF:-1 tvg-id="2060" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="",峨眉电影 高清
 http://home.sunruilin.com:4443/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="59" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="",青海卫视 高清
-http://113.67.164.10:8889/rtp/239.253.43.125:5146
+#http://113.67.164.10:8889/rtp/239.253.43.125:5146
 #EXTINF:-1 tvg-id="46" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="",黑龙江卫视 高清
 http://home.sunruilin.com:4443/rtp/239.93.0.183:5140
 #EXTINF:-1 tvg-id="50" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="",江西卫视 高清
@@ -139,9 +139,9 @@ http://home.sunruilin.com:4443/rtp/239.93.1.174:5140
 #EXTINF:-1 tvg-id="55" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="",陕西卫视 高清
 http://home.sunruilin.com:4443/rtp/239.93.0.143:5140
 #EXTINF:-1 tvg-id="57" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="",新疆卫视 高清
-http://office.gofaraway.top:888/udp/238.125.7.145:5140
+#http://office.gofaraway.top:888/udp/238.125.7.145:5140
 #EXTINF:-1 tvg-id="72" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="",三沙卫视 高清
-http://113.67.164.10:8889/rtp/239.253.43.113:5146
+#http://113.67.164.10:8889/rtp/239.253.43.113:5146
 #EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="",CETV1 高清
 http://home.sunruilin.com:4443/rtp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="141" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="",凤凰卫视 高清
