@@ -32,13 +32,13 @@ http://dsm.ccb912.top:9998/rtp/239.93.1.29:6000
 http://dsm.ccb912.top:9998/rtp/239.93.0.103:5140
 #EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16 
 http://tico2.eu.org:4022/rtp/239.69.1.247:11124
-#EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16 超
+#EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="",CCTV16
 http://tico2.eu.org:4022/rtp/239.69.1.249:11136
 #EXTINF:-1 tvg-id="17" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="",CCTV17 
 http://dsm.ccb912.top:9998/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="6" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="",CCTV5+ 
 http://dsm.ccb912.top:9998/rtp/239.93.1.36:8004
-#EXTINF:-1 tvg-id="106" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="",CCTV4K 超
+#EXTINF:-1 tvg-id="106" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="",CCTV4K
 http://dsm.ccb912.top:9998/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="6569" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="",CCTV央视文化精品 
 http://dsm.ccb912.top:9998/rtp/239.93.42.47:5140
@@ -180,11 +180,11 @@ http://dsm.ccb912.top:9998/rtp/239.93.42.86:5140
 http://dsm.ccb912.top:9998/rtp/239.93.42.87:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",全球大片 
 http://dsm.ccb912.top:9998/rtp/239.93.42.90:5140
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 超
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K
 http://dsm.ccb912.top:9998/rtp/239.93.0.97:5140
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 超
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K
 http://dsm.ccb912.top:9998/rtp/239.93.42.33:5140
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K 超
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K
 http://dsm.ccb912.top:9998/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱科幻 
 http://dsm.ccb912.top:9998/rtp/239.93.42.10:5140
