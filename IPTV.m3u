@@ -57,7 +57,7 @@ rtp://239.69.1.89:10174
 #EXTINF:-1 tvg-id="6558" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="",CCTV第一剧场 高清
 rtp://239.69.1.74:10084
 #EXTINF:-1 tvg-id="6557" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="",CCTV风云音乐 高清
-#
+rtp://239.69.1.90:10180
 #EXTINF:-1 tvg-id="6568" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="",CCTV高尔夫网球 高清
 rtp://239.69.1.83:10138
 #EXTINF:-1 tvg-id="6584" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="",CCTV台球 高清
@@ -165,7 +165,7 @@ rtp://239.69.1.110:10298
 #EXTINF:-1 tvg-id="143" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="",凤凰香港 高清
 #
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 超高清
-rtp://239.69.1.141:10482
+
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 超高清
 #
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K 超高清
