@@ -199,5 +199,5 @@ http://dsm.ccb912.top:9998/rtp/239.93.42.22:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",精彩影视 
 http://dsm.ccb912.top:9998/rtp/239.93.42.92:5140
 #EXTINF:-1 tvg-id="1" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="",测试
-http://192.168.11.1:6666/rtp/239.69.1.247:11124
+rtp://239.69.1.247:11124
 
