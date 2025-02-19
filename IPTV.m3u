@@ -195,6 +195,8 @@ http://192.168.11.133:4022/udp/239.69.1.242:11094
 #EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="",CHC家庭电影 高清
 http://192.168.11.133:4022/udp/239.69.1.243:11100
 
+#EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="",CHC家庭电影 高清
+udp://239.69.1.243:11100
 
 
 #宜昌	253.152.
