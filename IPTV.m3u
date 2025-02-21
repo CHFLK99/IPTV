@@ -196,12 +196,7 @@ http://59.173.55.175:4022/rtp/239.69.1.242:11094
 http://59.173.55.175:4022/rtp/239.69.1.243:11100
 #EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="" group-title="",测试
 http://192.168.11.133:4022/udp/239.69.1.138:10466
-#EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="" group-title="",测试
-http://192.168.11.133:4022/rtp/239.69.1.138:10466
-#EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="" group-title="",测试
-rtp://@239.69.1.138:10466
-#EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="" group-title="",测试
-udp://@239.69.1.138:10466
+
 #宜昌	253.152.
 #咸宁	253.153.
 #黄石	253.154.
