@@ -17,12 +17,6 @@ http://dns.yiandrive.com:15907/douyu/3243427
 http://dns.yiandrive.com:15907/douyu/3508304
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",特辑电影
 http://dns.yiandrive.com:15907/douyu/3637778
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",经典小品
-http://dns.yiandrive.com:15907/douyu/9067836
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",贾玲小品
-http://dns.yiandrive.com:15907/douyu/10419541
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",许君聪小品
-http://dns.yiandrive.com:15907/douyu/10419558
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",喜剧力量
 http://dns.yiandrive.com:15907/douyu/9403781
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",辽视欢乐大集锦
@@ -31,6 +25,16 @@ http://dns.yiandrive.com:15907/douyu/9403712
 http://dns.yiandrive.com:15907/huya/11602058
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",超级英雄电影
 http://dns.yiandrive.com:15907/huya/11352950
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",经典小品
+http://dns.yiandrive.com:15907/douyu/9067836
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",贾玲小品
+http://dns.yiandrive.com:15907/douyu/10419541
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",许君聪小品
+http://dns.yiandrive.com:15907/douyu/10419558
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",辽视欢乐大集锦
+http://dns.yiandrive.com:15907/douyu/9403712
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://www.lmtw.com/d/file/wireless/news/20190404/ac36fa760fea8d122d2bfe317c6f45be.jpg" group-title="",春晚小品
+http://dns.yiandrive.com:15907/huya/11602068
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://www.lmtw.com/d/file/wireless/news/20190404/ac36fa760fea8d122d2bfe317c6f45be.jpg" group-title="",大片看这里
 http://dns.yiandrive.com:15907/huya/11352952
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://www.lmtw.com/d/file/wireless/news/20190404/ac36fa760fea8d122d2bfe317c6f45be.jpg" group-title="",茶啊二中
