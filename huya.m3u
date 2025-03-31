@@ -23,6 +23,10 @@ http://dns.yiandrive.com:15907/douyu/10419541
 http://dns.yiandrive.com:15907/douyu/10419558
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",辽视欢乐大集锦
 http://dns.yiandrive.com:15907/douyu/9403712
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",欢乐小饭米粒
+http://dns.yiandrive.com:15907/douyu/9403690
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",徐大骚
+http://dns.yiandrive.com:15907/douyu/961386
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",王晶港风
 http://dns.yiandrive.com:15907/huya/11602058
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.sccnn.com/bimg/338/68304.jpg" group-title="",超级英雄电影
@@ -63,12 +67,16 @@ http://dns.yiandrive.com:15907/huya/11342423
 http://dns.yiandrive.com:15907/huya/11342412
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://www.lmtw.com/d/file/wireless/news/20190404/ac36fa760fea8d122d2bfe317c6f45be.jpg" group-title="",周润发影片
 http://dns.yiandrive.com:15907/huya/11342387
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://www.lmtw.com/d/file/wireless/news/20190404/ac36fa760fea8d122d2bfe317c6f45be.jpg" group-title="",经典香港电影
+http://dns.yiandrive.com:15907/huya/11602055
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://www.lmtw.com/d/file/wireless/news/20190404/ac36fa760fea8d122d2bfe317c6f45be.jpg" group-title="",成龙影片
 http://dns.yiandrive.com:15907/huya/11342386
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://www.lmtw.com/d/file/wireless/news/20190404/ac36fa760fea8d122d2bfe317c6f45be.jpg" group-title="",洪金宝片
 http://dns.yiandrive.com:15907/huya/11279251
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://www.lmtw.com/d/file/wireless/news/20190404/ac36fa760fea8d122d2bfe317c6f45be.jpg" group-title="",历年贺岁档
 http://dns.yiandrive.com:15907/huya/11601986
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://www.lmtw.com/d/file/wireless/news/20190404/ac36fa760fea8d122d2bfe317c6f45be.jpg" group-title="",龙门镖局
+http://dns.yiandrive.com:15907/huya/11352874
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://www.lmtw.com/d/file/wireless/news/20190404/ac36fa760fea8d122d2bfe317c6f45be.jpg" group-title="",一起看直播
 http://dns.yiandrive.com:15907/huya/21059577
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://www.lmtw.com/d/file/wireless/news/20190404/ac36fa760fea8d122d2bfe317c6f45be.jpg" group-title="",动作电影
@@ -87,3 +95,5 @@ http://dns.yiandrive.com:15907/douyin/maoerniangcat
 http://dns.yiandrive.com:15907/douyin/yymm6668
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.lmtw.com/m/d/file/sm/dongtai/20200115/e5f8db5033b7c75308a007cd9495c258.png" group-title="",女流66
 http://dns.yiandrive.com:15907/douyin/629458933
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://img.lmtw.com/m/d/file/sm/dongtai/20200115/e5f8db5033b7c75308a007cd9495c258.png" group-title="",高大壮
+http://dns.yiandrive.com:15907/douyin/809337469313
