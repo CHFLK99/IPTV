@@ -11,7 +11,7 @@ http://dsm.ccb912.top:9998/rtp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="5" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="",CCTV5 
 http://dsm.ccb912.top:9998/rtp/239.93.42.37:5140
 #EXTINF:-1 tvg-id="7" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="",CCTV6 
-http://dsm.ccb912.top:9998/rtp/239.93.1.13:2226
+http://dsm.ccb912.top:9998/rtp/239.93.0.13:5140
 #EXTINF:-1 tvg-id="8" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="",CCTV7 
 http://dsm.ccb912.top:9998/rtp/239.93.1.67:5140
 #EXTINF:-1 tvg-id="9" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="",CCTV8 
