@@ -190,6 +190,8 @@ http://dsm.ccb912.top:9998/rtp/239.93.0.97:5140
 http://dsm.ccb912.top:9998/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K
 http://dsm.ccb912.top:9998/rtp/239.93.0.43:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",4K视界
+http://dsm.ccb912.top:9998/rtp/239.93.0.14:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱科幻 
 http://dsm.ccb912.top:9998/rtp/239.93.42.10:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱喜剧 
