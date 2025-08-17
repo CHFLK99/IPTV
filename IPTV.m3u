@@ -138,8 +138,12 @@ http://dsm.ccb912.top:9998/rtp/239.93.1.174:5140
 #
 #EXTINF:-1 tvg-id="55" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="",陕西卫视 
 http://dsm.ccb912.top:9998/rtp/239.93.0.143:5140
+#EXTINF:-1 tvg-id="57" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="",西藏卫视 
+http://dsm.ccb912.top:9998/rtp/239.94.0.97:5140
 #EXTINF:-1 tvg-id="57" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="",新疆卫视 
-#
+http://dsm.ccb912.top:9998/rtp/239.93.0.82:5140
+#EXTINF:-1 tvg-id="57" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="",兵团卫视 
+http://dsm.ccb912.top:9998/rtp/239.93.42.43:5140
 #EXTINF:-1 tvg-id="72" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="",三沙卫视 
 #
 #EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="",CETV1 
