@@ -88,7 +88,7 @@ http://jgw.ddns.iuxs.info:9999/rtp/239.94.0.109:5140
 #EXTINF:-1 tvg-id="31" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="",东方卫视 
 http://jgw.ddns.iuxs.info:9999/rtp/239.94.0.64:5140  
 #EXTINF:-1 tvg-id="1988" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="",纪实人文 
-http://jgw.ddns.iuxs.info:9999/rtp/239.93.1.137:5140
+#
 #EXTINF:-1 tvg-id="1981" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="",生活时尚 
 http://jgw.ddns.iuxs.info:9999/rtp/239.94.1.146:5140
 #EXTINF:-1 tvg-id="32" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="",安徽卫视 
@@ -203,3 +203,5 @@ http://jgw.ddns.iuxs.info:9999/rtp/239.94.1.132:5140
 http://jgw.ddns.iuxs.info:9999/rtp/239.94.1.130:5140
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",精彩影视 
 http://jgw.ddns.iuxs.info:9999/rtp/239.94.1.172:5140
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",生活时尚
+http://jgw.ddns.iuxs.info:9999/rtp/239.94.1.39:5140
