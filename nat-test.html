@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>NAT 类型检测</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #0f172a;
+      color: #e5e7eb;
+      padding: 20px;
+    }
+    h1 { color: #38bdf8; }
+    button {
+      padding: 10px 16px;
+      background: #38bdf8;
+      border: none;
+      border-radius: 6px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    button:disabled { opacity: 0.6; cursor: not-allowed; }
+    .box {
+      margin-top: 20px;
+      padding: 15px;
+      background: #020617;
+      border-radius: 8px;
+    }
+    .ok { color: #22c55e; }
+    .warn { color: #facc15; }
+    .bad { color: #ef4444; }
+    code { color: #93c5fd; }
+  </style>
+</head>
+<body>
+
+<h1>🌐 NAT 类型检测</h1>
+<p>基于 WebRTC STUN 探测（无需服务器，直接打开使用）</p>
+
+<button id="start">开始检测</button>
+
+<div class="box" id="result">等待检测…</div>
+
+<script>
+const button = document.getElementById("start");
+const result = document.getElementById("result");
+
+button.onclick = async () => {
+  button.disabled = true;
+  result.innerHTML = "检测中，请稍候…";
+
+  const ips = new Set();
+  const pc = new RTCPeerConnection({
+    iceServers: [
+      { urls: "stun:stun.l.google.com:19302" },
+      { urls: "stun:stun1.l.google.com:19302" }
+    ]
+  });
+
+  pc.createDataChannel("test");
+
+  pc.onicecandidate = e => {
+    if (!e.candidate) return;
+    const match = e.candidate.candidate.match(/(\d+\.\d+\.\d+\.\d+)/);
+    if (match) ips.add(match[1]);
+  };
+
+  await pc.setLocalDescription(await pc.createOffer());
+
+  setTimeout(() => {
+    pc.close();
+    const ipList = [...ips];
+    let natType = "";
+    let level = "ok";
+
+    if (ipList.length === 0) {
+      natType = "无法获取 IP（可能被浏览器或网络限制）";
+      level = "bad";
+    } else if (ipList.length === 1) {
+      natType = "公网 IP 或 Full Cone NAT（NAT 状态良好）";
+    } else {
+      natType = "对称 NAT（Symmetric NAT，P2P 连接困难）";
+      level = "bad";
+    }
+
+    result.innerHTML = `
+      <p><strong>检测到的 IP：</strong></p>
+      <code>${ipList.join("<br>")}</code>
+      <hr>
+      <p><strong>NAT 判断结果：</strong></p>
+      <p class="${level}">${natType}</p>
+      <p class="warn">说明：网页环境下无法 100% 精准，仅供参考</p>
+    `;
+
+    button.disabled = false;
+  }, 3000);
+};
+</script>
+
+</body>
+</html>
